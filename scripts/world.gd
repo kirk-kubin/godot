@@ -5,4 +5,4 @@ extends Node2D
 
 func _ready():
 	polygon_2d.polygon = collision_polygon_2d.polygon
-	#yesyes
+	
